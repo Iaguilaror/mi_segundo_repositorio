@@ -2,7 +2,7 @@
 
 # Definimos un pais en una variable
 
-elpais="Mexico"
+elpais="$1"
 
 echo "Hola, soy un script que pregunta cosas"
 
